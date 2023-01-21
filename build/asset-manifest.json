@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4399deb.css",
+    "main.js": "/static/js/main.59e7e94b.js",
+    "static/js/787.a5a00b74.chunk.js": "/static/js/787.a5a00b74.chunk.js",
+    "static/media/online-doctor-app.gif": "/static/media/online-doctor-app.55fd232d188e927db687.gif",
+    "static/media/doc-6.jpg": "/static/media/doc-6.be2a77adde3dc48f9d5b.jpg",
+    "static/media/doc-2.jpg": "/static/media/doc-2.9045579a47c3fd89b17c.jpg",
+    "static/media/doc-5.jpg": "/static/media/doc-5.22ac1d594f69ddaf3e08.jpg",
+    "static/media/blog-1.jpg": "/static/media/blog-1.142698a07f1a06033fed.jpg",
+    "static/media/doc-1.jpg": "/static/media/doc-1.d03a0686030bcd2f05ec.jpg",
+    "static/media/blog-2.jpg": "/static/media/blog-2.43f3cf436df805130894.jpg",
+    "static/media/doc-3.jpg": "/static/media/doc-3.0d822ecc51b2532abe0e.jpg",
+    "static/media/doc-4.jpg": "/static/media/doc-4.24eb182159ea2d58610f.jpg",
+    "static/media/blog-3.jpg": "/static/media/blog-3.70ca9bb2a7e7e345cd05.jpg",
+    "static/media/homeimage.JPG": "/static/media/homeimage.3cdeb3abbc35d3c67fe2.JPG",
+    "index.html": "/index.html",
+    "main.e4399deb.css.map": "/static/css/main.e4399deb.css.map",
+    "main.59e7e94b.js.map": "/static/js/main.59e7e94b.js.map",
+    "787.a5a00b74.chunk.js.map": "/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4399deb.css",
+    "static/js/main.59e7e94b.js"
+  ]
+}
